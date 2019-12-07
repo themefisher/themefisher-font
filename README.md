@@ -1,4 +1,14 @@
-Open *demo.html* to see a list of all the glyphs in your font along with their codes/ligatures.
+# Themefisher Font
+
+>The Themefisher font provides icons as a CSS font.
+
+## View All Icons
+
+Open `demo.html` to see a list of all the glyphs in your font along with their codes/ligatures.
+
+![Example](screenshot.png)
+
+## Installation
 
 To use the generated font in desktop programs, you can install the TTF font. In order to copy the character associated with each icon, refer to the text box at the bottom right corner of each glyph in demo.html. The character inside this text box may be invisible; but it can still be copied. See this guide for more info: https://icomoon.io/#docs/local-fonts
 
